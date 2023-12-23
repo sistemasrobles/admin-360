@@ -9,7 +9,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>Administración Planos - Grupo Robles & Yasikov</title>
+    <title>Administración Planosxx - Grupo Robles & Yasikov</title>
     <link rel="shortcut icon" href="images/ico.ico">
     <!-- Custom fonts for this template-->
     <link href="vendor/fontawesome-free/css/all.min.css" rel="stylesheet" type="text/css">

@@ -1,0 +1,86 @@
+[16-Jun-2023 11:45:28 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home/ldzwaknq/recorridos.gruporobles.com.pe/admin-360/conection/conexion.php:20
+Stack trace:
+#0 /home/ldzwaknq/recorridos.gruporobles.com.pe/admin-360/conection/conexion.php(20): PDO->__construct('mysql:host=loca...', 'root', '', Array)
+#1 /home/ldzwaknq/recorridos.gruporobles.com.pe/admin-360/management/CompruebaLogin.php(4): require('/home/ldzwaknq/...')
+#2 {main}
+  thrown in /home/ldzwaknq/recorridos.gruporobles.com.pe/admin-360/conection/conexion.php on line 20
+[16-Jun-2023 11:45:34 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home/ldzwaknq/recorridos.gruporobles.com.pe/admin-360/conection/conexion.php:20
+Stack trace:
+#0 /home/ldzwaknq/recorridos.gruporobles.com.pe/admin-360/conection/conexion.php(20): PDO->__construct('mysql:host=loca...', 'root', '', Array)
+#1 /home/ldzwaknq/recorridos.gruporobles.com.pe/admin-360/management/CompruebaLogin.php(4): require('/home/ldzwaknq/...')
+#2 {main}
+  thrown in /home/ldzwaknq/recorridos.gruporobles.com.pe/admin-360/conection/conexion.php on line 20
+[16-Jun-2023 12:01:11 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'Idzwaknq_admin360'@'localhost' (using password: YES) in /home/ldzwaknq/recorridos.gruporobles.com.pe/admin-360/conection/conexion.php:20
+Stack trace:
+#0 /home/ldzwaknq/recorridos.gruporobles.com.pe/admin-360/conection/conexion.php(20): PDO->__construct('mysql:host=loca...', 'Idzwaknq_admin3...', '-,n^%[@2UVj(', Array)
+#1 /home/ldzwaknq/recorridos.gruporobles.com.pe/admin-360/management/CompruebaLogin.php(4): require('/home/ldzwaknq/...')
+#2 {main}
+  thrown in /home/ldzwaknq/recorridos.gruporobles.com.pe/admin-360/conection/conexion.php on line 20
+[16-Jun-2023 12:10:20 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'Idzwaknq_admin360'@'bh8956.banahosting.com' (using password: YES) in /home/ldzwaknq/recorridos.gruporobles.com.pe/admin-360/conection/conexion.php:20
+Stack trace:
+#0 /home/ldzwaknq/recorridos.gruporobles.com.pe/admin-360/conection/conexion.php(20): PDO->__construct('mysql:host=bh89...', 'Idzwaknq_admin3...', '-,n^%[@2UVj(', Array)
+#1 /home/ldzwaknq/recorridos.gruporobles.com.pe/admin-360/management/CompruebaLogin.php(4): require('/home/ldzwaknq/...')
+#2 {main}
+  thrown in /home/ldzwaknq/recorridos.gruporobles.com.pe/admin-360/conection/conexion.php on line 20
+[16-Jun-2023 12:10:30 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'Idzwaknq_admin360'@'bh8956.banahosting.com' (using password: YES) in /home/ldzwaknq/recorridos.gruporobles.com.pe/admin-360/conection/conexion.php:20
+Stack trace:
+#0 /home/ldzwaknq/recorridos.gruporobles.com.pe/admin-360/conection/conexion.php(20): PDO->__construct('mysql:host=bh89...', 'Idzwaknq_admin3...', '-,n^%[@2UVj(', Array)
+#1 /home/ldzwaknq/recorridos.gruporobles.com.pe/admin-360/management/CompruebaLogin.php(4): require('/home/ldzwaknq/...')
+#2 {main}
+  thrown in /home/ldzwaknq/recorridos.gruporobles.com.pe/admin-360/conection/conexion.php on line 20
+[16-Jun-2023 12:11:29 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'Idzwaknq_admin360'@'bh8956.banahosting.com' (using password: YES) in /home/ldzwaknq/recorridos.gruporobles.com.pe/admin-360/conection/conexion.php:20
+Stack trace:
+#0 /home/ldzwaknq/recorridos.gruporobles.com.pe/admin-360/conection/conexion.php(20): PDO->__construct('mysql:host=bh89...', 'Idzwaknq_admin3...', '-,n^%[@2UVj(', Array)
+#1 /home/ldzwaknq/recorridos.gruporobles.com.pe/admin-360/management/CompruebaLogin.php(4): require('/home/ldzwaknq/...')
+#2 {main}
+  thrown in /home/ldzwaknq/recorridos.gruporobles.com.pe/admin-360/conection/conexion.php on line 20
+[16-Jun-2023 12:12:45 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'Idzwaknq_admin360'@'localhost' (using password: YES) in /home/ldzwaknq/recorridos.gruporobles.com.pe/admin-360/conection/conexion.php:20
+Stack trace:
+#0 /home/ldzwaknq/recorridos.gruporobles.com.pe/admin-360/conection/conexion.php(20): PDO->__construct('mysql:host=loca...', 'Idzwaknq_admin3...', '-,n^%[@2UVj(', Array)
+#1 /home/ldzwaknq/recorridos.gruporobles.com.pe/admin-360/management/CompruebaLogin.php(4): require('/home/ldzwaknq/...')
+#2 {main}
+  thrown in /home/ldzwaknq/recorridos.gruporobles.com.pe/admin-360/conection/conexion.php on line 20
+[16-Jun-2023 12:14:20 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'Idzwaknq_admin360'@'localhost' (using password: YES) in /home/ldzwaknq/recorridos.gruporobles.com.pe/admin-360/conection/conexion.php:25
+Stack trace:
+#0 /home/ldzwaknq/recorridos.gruporobles.com.pe/admin-360/conection/conexion.php(25): PDO->__construct('mysql:host=loca...', 'Idzwaknq_admin3...', '-,n^%[@2UVj(', Array)
+#1 /home/ldzwaknq/recorridos.gruporobles.com.pe/admin-360/management/CompruebaLogin.php(4): require('/home/ldzwaknq/...')
+#2 {main}
+  thrown in /home/ldzwaknq/recorridos.gruporobles.com.pe/admin-360/conection/conexion.php on line 25
+[16-Jun-2023 12:18:04 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'Idzwaknq_admin360'@'bh8956.banahosting.com' (using password: YES) in /home/ldzwaknq/recorridos.gruporobles.com.pe/admin-360/conection/conexion.php:25
+Stack trace:
+#0 /home/ldzwaknq/recorridos.gruporobles.com.pe/admin-360/conection/conexion.php(25): PDO->__construct('mysql:host=204....', 'Idzwaknq_admin3...', '-,n^%[@2UVj(', Array)
+#1 /home/ldzwaknq/recorridos.gruporobles.com.pe/admin-360/management/CompruebaLogin.php(4): require('/home/ldzwaknq/...')
+#2 {main}
+  thrown in /home/ldzwaknq/recorridos.gruporobles.com.pe/admin-360/conection/conexion.php on line 25
+[16-Jun-2023 12:18:31 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'Idzwaknq_admin360'@'localhost' (using password: YES) in /home/ldzwaknq/recorridos.gruporobles.com.pe/admin-360/conection/conexion.php:25
+Stack trace:
+#0 /home/ldzwaknq/recorridos.gruporobles.com.pe/admin-360/conection/conexion.php(25): PDO->__construct('mysql:host=loca...', 'Idzwaknq_admin3...', '-,n^%[@2UVj(', Array)
+#1 /home/ldzwaknq/recorridos.gruporobles.com.pe/admin-360/management/CompruebaLogin.php(4): require('/home/ldzwaknq/...')
+#2 {main}
+  thrown in /home/ldzwaknq/recorridos.gruporobles.com.pe/admin-360/conection/conexion.php on line 25
+[16-Jun-2023 12:19:28 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'Idzwaknq_admin360'@'localhost' (using password: YES) in /home/ldzwaknq/recorridos.gruporobles.com.pe/admin-360/conection/conexion.php:25
+Stack trace:
+#0 /home/ldzwaknq/recorridos.gruporobles.com.pe/admin-360/conection/conexion.php(25): PDO->__construct('mysql:host=loca...', 'Idzwaknq_admin3...', '-,n^%[@2UVj(', Array)
+#1 /home/ldzwaknq/recorridos.gruporobles.com.pe/admin-360/management/CompruebaLogin.php(4): require('/home/ldzwaknq/...')
+#2 {main}
+  thrown in /home/ldzwaknq/recorridos.gruporobles.com.pe/admin-360/conection/conexion.php on line 25
+[16-Jun-2023 12:22:21 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'Idzwaknq_admin360'@'localhost' (using password: YES) in /home/ldzwaknq/recorridos.gruporobles.com.pe/admin-360/conection/conexion.php:25
+Stack trace:
+#0 /home/ldzwaknq/recorridos.gruporobles.com.pe/admin-360/conection/conexion.php(25): PDO->__construct('mysql:host=loca...', 'Idzwaknq_admin3...', '-,n^%[@2UVj(', Array)
+#1 /home/ldzwaknq/recorridos.gruporobles.com.pe/admin-360/management/CompruebaLogin.php(4): require('/home/ldzwaknq/...')
+#2 {main}
+  thrown in /home/ldzwaknq/recorridos.gruporobles.com.pe/admin-360/conection/conexion.php on line 25
+[16-Jun-2023 12:24:10 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'Idzwaknq_admin360'@'localhost' (using password: YES) in /home/ldzwaknq/recorridos.gruporobles.com.pe/admin-360/conection/conexion.php:25
+Stack trace:
+#0 /home/ldzwaknq/recorridos.gruporobles.com.pe/admin-360/conection/conexion.php(25): PDO->__construct('mysql:host=loca...', 'Idzwaknq_admin3...', 'nfRwwX{kc6d#', Array)
+#1 /home/ldzwaknq/recorridos.gruporobles.com.pe/admin-360/management/CompruebaLogin.php(4): require('/home/ldzwaknq/...')
+#2 {main}
+  thrown in /home/ldzwaknq/recorridos.gruporobles.com.pe/admin-360/conection/conexion.php on line 25
+[16-Jun-2023 12:25:20 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'Idzwaknq_admin360'@'localhost' (using password: YES) in /home/ldzwaknq/recorridos.gruporobles.com.pe/admin-360/conection/conexion.php:25
+Stack trace:
+#0 /home/ldzwaknq/recorridos.gruporobles.com.pe/admin-360/conection/conexion.php(25): PDO->__construct('mysql:host=loca...', 'Idzwaknq_admin3...', 'nfRwwX{kc6d#', Array)
+#1 /home/ldzwaknq/recorridos.gruporobles.com.pe/admin-360/management/CompruebaLogin.php(4): require('/home/ldzwaknq/...')
+#2 {main}
+  thrown in /home/ldzwaknq/recorridos.gruporobles.com.pe/admin-360/conection/conexion.php on line 25
+[16-Jun-2023 13:06:57 America/New_York] PHP Warning:  session_regenerate_id(): Cannot regenerate session id - headers already sent in /home/ldzwaknq/recorridos.gruporobles.com.pe/admin-360/management/CompruebaLogin.php on line 32
+[16-Jun-2023 13:09:08 America/New_York] PHP Warning:  session_regenerate_id(): Cannot regenerate session id - headers already sent in /home/ldzwaknq/recorridos.gruporobles.com.pe/admin-360/management/CompruebaLogin.php on line 32

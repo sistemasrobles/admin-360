@@ -234,6 +234,9 @@ header('Location: login');
                                         
                                         <option value="el-arco-dorado" data-web="https://recorridos.gruporobles.com.pe/el-arco-dorado/">El Arco Dorado</option>
                                         <option value="bella-primavera" data-web="https://recorridos.gruporobles.com.pe/bella-primavera/">Bella Primavera</option>
+
+
+                                        <option value="el-golf-de-poseidon" data-web="https://recorridos.gruporobles.com.pe/el-golf-de-poseidon/">El Golf de Poseidon</option>
                                     </select>
                                 </div>
 
